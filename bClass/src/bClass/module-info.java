@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gkstk
+ *
+ */
+module bClass {
+}
