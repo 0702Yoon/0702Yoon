@@ -36,10 +36,6 @@ public class Cal2 {
          return number;
       }
     
-     private void quit() {
-         System.exit(0);
-      }
-    
    private int compute(int code) throws IOException  {
       int result = 0;
       int number1=readInt();
@@ -89,5 +85,6 @@ public class Cal2 {
    public static void main(String[] args) throws IOException {
       Calculator calculator = new Calculator();
       calculator.rum();
+      System.out.println("github대비 연습");
    }
 }
